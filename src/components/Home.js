@@ -9,7 +9,7 @@ export default function Home() {
         <h1 className="title">Hi, I'm <span className="accent">{YOUR_NAME}</span></h1>
         <p className="subtitle">{TAGLINE}</p>
         <div className="actions">
-          <a className="btn primary" href="rename.docs" download>Download Resume</a>
+          <a className="btn primary" href="jay.pdf" download>Download Resume</a>
           <a className="btn" href="#projects">View Projects</a>
         </div>
       </div>

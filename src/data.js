@@ -11,9 +11,8 @@ I am also a comedian who can keep the environment light and a Cricket Analyst wi
 discuss about Cricket and become a good friend. `;
 
 export const SKILLS = [
-  "HTML", "CSS", "JavaScript", "React", "Node.js", "Express",
-  "MongoDB", "SQL", "Python", "TensorFlow", "OpenCV",
-  "Supervised Learning", "Unsupervised Learning", "Raspberry Pi", "XAMPP"
+  "HTML", "CSS", "JavaScript", "React.js", "Node.js", "Express.js",
+  "MongoDB", "SQL", "Python", "TensorFlow", "OpenCV","Git", "REST APIs"
 ];
 
 export const PROJECTS = [
@@ -23,6 +22,11 @@ export const PROJECTS = [
       " Control your computer with hand gestures using OpenCV and Python.",
     link: "https://github.com/jayarajbelamagi/Virtual-Mouse-by-Opencv-Python"
   },
+  {
+        title: "Winker",
+        description:"Developed Winker, a MERN-stack social platform enabling real-time user engagement",
+        link: "https://github.com/jayarajbelamagi/winker"
+    },
   {
     title: "Plagiarism Tracker",
     description:
@@ -68,7 +72,7 @@ export const PROJECTS = [
     {
         title: "SkillShare",
         description:
-        "Coming soon!",
+        "Coming Soon",
         link: ""
     }
   

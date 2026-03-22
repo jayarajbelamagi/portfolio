@@ -100,6 +100,6 @@ export const PROJECTS = [
 export const CONTACT = {
   email: "ubelamagi@gmail.com",
   github: "https://github.com/jayarajbelamagi",
-  linkedin: "https://www.linkedin.com/feed/",
+  linkedin: "https://www.linkedin.com/in/jayaraj-belamagi-6030461aa/",
   Instagram: "https://www.instagram.com/jayaraj_belamagi/"
 };

@@ -1,18 +1,19 @@
 // Edit these and the site updates — no code changes needed.
 
 export const YOUR_NAME = "Jayaraj Belamagi";
-export const TAGLINE = "Full-Stack Developer • ML & OpenCV Enthusiast • Comedian • Cricket Analyst";
+export const TAGLINE = "Full-Stack Developer • ML & OpenCV Enthusiast • Comedian";
 
-export const ABOUT = `I'm a developer experienced in HTML, CSS, JavaScript, React, Node.js, Express,
-MongoDB, SQL, and Python. I’ve also worked with TensorFlow, OpenCV, Raspberry Pi,
-and both supervised & unsupervised learning. I love building practical, clean, and
-impactful projects that blend web + AI + hardware. I am hardworking and can work for long hours.
-I am also a comedian who can keep the environment light and a Cricket Analyst with whom you can 
-discuss about Cricket and become a good friend. `;
+export const ABOUT = `I'm a developer with experience in React, Node.js, Express, MongoDB, SQL, C++, LangChain and Python. I’ve also worked with TensorFlow, OpenCV, and Raspberry Pi.
+
+I enjoy building practical, clean, and impactful projects that combine web development, AI, and real-world applications. I focus on writing efficient code and designing systems that solve meaningful problems.
+
+Beyond tech, I bring a positive and engaging presence to any team. I enjoy stand-up comedy and have a strong interest in cricket analysis, which helps me connect easily with people and keep the environment energetic and collaborative.
+ `;
 
 export const SKILLS = [
-  "HTML", "CSS", "JavaScript", "React.js", "Node.js", "Express.js",
-  "MongoDB", "SQL", "Python", "TensorFlow", "OpenCV","Git", "REST APIs"
+  "JavaScript", "React", "Node.js", "MongoDB",
+  "Python", "C++", "Machine Learning",
+  "TensorFlow", "OpenCV", "LangChain", "REST APIs"
 ];
 
 export const PROJECTS = [
@@ -27,6 +28,30 @@ export const PROJECTS = [
         description:"Developed Winker, a MERN-stack social platform enabling real-time user engagement",
         link: "https://github.com/jayarajbelamagi/winker"
     },
+  {
+  title: "Circle",
+  description:
+    "Built a MERN-stack blogging and discussion platform with real-time chat for interactive user engagement.",
+  link: "https://github.com/jayarajbelamagi/vrutha"
+},
+{
+  title: "Self-RAG",
+  description:
+    "Developed a Retrieval-Augmented Generation system using LangChain to enable context-aware question answering.",
+  link: "https://github.com/jayarajbelamagi/Self-RAG"
+},
+{
+  title: "Redis-Compatible HTTP Cache Server",
+  description:
+    "Designed a high-performance C++ HTTP cache server with in-memory storage and LRU eviction for fast data access.",
+  link: "https://github.com/jayarajbelamagi/Redis-Compatible-HTTP-cache-Server"
+},
+{
+  title: "Website Analytics Monitor",
+  description:
+    "Built a real-time analytics system with Astro, Bun, and a custom C++ cache server for live traffic insights.",
+  link: "https://github.com/jayarajbelamagi/Website-Analytics-Monitor"
+},
   {
     title: "Plagiarism Tracker",
     description:
@@ -69,12 +94,6 @@ export const PROJECTS = [
       "Just did it out of Boredom",
     link: "https://aboutme-tau-red.vercel.app/"
   },
-    {
-        title: "SkillShare",
-        description:
-        "Coming Soon",
-        link: ""
-    }
   
 ];
 
